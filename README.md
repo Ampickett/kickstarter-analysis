@@ -14,12 +14,16 @@
 ### Analysis of Outcomes Based on Launch Date
 
     When looking at the Theater Outcomes Based on Launch Date, one could draw several conclusions. The first being that May and June are the two most successful months by a large margin. On the contrary, the number of successful and failed campagins are the most similar and lowest overall, during the last quarter of the year.
-    ![Outcomes_Based_on_Launch_Date](https://github.com/Ampickett/kickstarter-analysis/blob/main/Research/Theater_Outcomes_vs_Launch.png)
+    ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106559760/174090099-8f099bb3-4f08-4e62-a5a0-cda2a0bba290.png)
+
+  
+
 
 ### Analysis of Outcomes Based on Goals
 
     Analyzing Plays by goals, we can see that those plays that had a low monetary goal, had the best success rate. Another conclusion that can be drawn is that as cost of the plays increase, there are fewer amount of plays. Additionally, the success rate drops substantially as cost goes up. There are some outliers, but the data is not statistically significant because of the low number of plays. 
-    ![Outcomes_Based_on_Goals](https://github.com/Ampickett/kickstarter-analysis/blob/main/Research/Outcomes_vs_Goals.png)
+    ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106559760/174090005-48ae5f11-f5a4-4f67-b047-b6b56244ff1e.png)
+
 
 ### Challenges and Difficulties Encountered
 
